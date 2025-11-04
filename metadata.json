@@ -1,0 +1,5 @@
+{
+  "name": "English Level Placement Test",
+  "description": "An application for preliminary testing of students' English language proficiency levels across various skills: grammar, vocabulary, reading, listening, writing, and speaking. The app provides an estimated CEFR level and saves results for teacher review.",
+  "requestFramePermissions": []
+}
